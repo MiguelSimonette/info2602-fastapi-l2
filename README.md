@@ -1,5 +1,12 @@
 # Info 2602 Lab 2
 
-This is the starter codebase for Lab 2.
-
-Use this workspace as a starter to complete the tasks in the lab
+Completed
+- Initialize database
+- Create user
+- Retrieve single user
+- Retrieve all users
+- Update user email
+- Delete user
+- Search users (partial match)
+- Pagination (limit and offset)
+- Error handling for duplicate users
